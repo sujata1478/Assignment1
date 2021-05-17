@@ -8,6 +8,7 @@
 	<name>employee-user</name>
 	<description>Demo project for Spring Boot</description>
 	<dependencies>  
+		<dependency>
             <groupId>io.jsonwebtoken</groupId>
     		<artifactId>jjwt-api</artifactId>
     		<version>0.10.7</version>	
